@@ -30,3 +30,11 @@ This is all related code of our COMP0124 coursework 3: Multi-agent reinforcement
 6. `pip install gym==0.21.0`.
 
 7. Run `hetero_highway.py` as a test environment, if it works, the environment is configured successfully!
+
+# Reference
+
+1. HighwayEnv, https://github.com/Farama-Foundation/HighwayEnv.git
+
+2. Heterogeneous_Highway_Env, https://github.com/wuxiyang1996/Heterogeneous_Highway_Env.git
+
+3. highway-env Documentation, https://highway-env.farama.org/installation/
