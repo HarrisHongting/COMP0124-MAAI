@@ -31,6 +31,12 @@ This is all related code of our COMP0124 coursework 3: Multi-agent reinforcement
 
 7. Run `hetero_highway.py` as a test environment, if it works, the environment is configured successfully!
 
+# Progress
+
+1. We have used Deep Q-Network to train monozygotes, the relevant code implementation can be found in the DQN_train folder.
+
+2. We've re-edited the environment configuration file for intersection_env.py with the functions in it. It can be replaced intersection_env.py with the source code. Run hetero_highway_train.py and hetero_intersection_train.py will use muti-agent to train model.
+
 # Reference
 
 1. HighwayEnv, https://github.com/Farama-Foundation/HighwayEnv.git
