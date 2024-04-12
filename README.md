@@ -35,7 +35,7 @@ This is all related code of our COMP0124 coursework 3: Multi-agent reinforcement
 
 1. We have used Deep Q-Network to train monozygotes, the relevant code implementation can be found in the DQN_train folder.
 
-2. We've re-edited the environment configuration file for intersection_env.py with the functions in it. It can be replaced intersection_env.py with the source code. Run hetero_highway_train.py and hetero_intersection_train.py will use muti-agent to train model.
+2. We've re-edited the environment configuration file for intersection_env.py with the functions in it. It can be replaced intersection_env.py with the source code. Run hetero_highway_train.py and hetero_intersection_train.py will use multi-agent to train model.
 
 # Reference
 
