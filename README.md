@@ -29,7 +29,7 @@ This is all related code of our COMP0124 coursework 2: Multi-agent reinforcement
 
 6. `pip install gym==0.21.0`.
 
-7. Run `hetero_highway.py` as a test environment, if it works, the environment is configured successfully!
+7. Run `hetero_highway.py` in the test folder as a test environment, if it works, the environment is configured successfully!
 
 # Progress
 
