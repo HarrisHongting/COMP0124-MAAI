@@ -17,7 +17,7 @@ This is all related code of our COMP0124 coursework 3: Multi-agent reinforcement
 
 # Installation process
 
-1. Download `highway_env` source code and `Heterogeneous_Highway_Env` source code from github
+1. Download `highway_env` source code (https://github.com/Farama-Foundation/HighwayEnv.git) and `Heterogeneous_Highway_Env` source code (https://github.com/wuxiyang1996/Heterogeneous_Highway_Env.git) from github
 
 2. Copy the `env`, `road` and `vehicle` folders from `heterogeneous_highway_env` to `highway_env/highway_env`, and overwrite any conflicting files.
 
